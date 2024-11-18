@@ -1,0 +1,28 @@
+main {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin-bottom: 50px;
+}
+form {
+    width: 50%;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.delete {
+    cursor: pointer;
+    padding: 10px;
+    background-color: red;
+    border-radius: 100px;
+}

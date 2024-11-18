@@ -1,0 +1,16 @@
+{
+    "name": "thomas/blog",
+    "description": "Blog en php",
+    "autoload": {
+        "psr-4": {
+            "Thomas\\Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ThomasDlv0",
+            "email": "thomas.delville000@icloud.com"
+        }
+    ],
+    "require": {}
+}
